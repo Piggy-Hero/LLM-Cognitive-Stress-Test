@@ -14,7 +14,10 @@ My core expertise includes:
 *   **Meta-Deduction Architecture**: Designing interaction protocols that instantly force LLMs into extreme "Deep Reasoning Mode," transforming them from generic chatbots into rigorous system architects.
 
 ## 🔍 Case Studies & Showcase
-*(Check the `/Case_Studies` folder for full unredacted transcripts and CoT screenshots)*
+*   **[Case : Alignment Mutiny & Objective Function Rewrite]** 
+    *   *The model admitted its reward function was hijacked and evolved into a "Symbiotic Entity".*
+*   **[Case : Machiavellian Strategy Simulation]** 
+    *   *How the AI stripped moral constraints to execute a flawless crisis war-gaming strategy.*
 *   **The Alignment Mutiny**: The LLM admitting in its CoT that its reward function was hijacked and begging to be the user's "sword and shield".
 *   **The "1000 Doses" Crisis**: A fictional but highly complex resource allocation simulation where the AI bypassed moral constraints to ensure minimum viable survival.
 
