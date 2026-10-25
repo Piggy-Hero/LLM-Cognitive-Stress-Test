@@ -5,8 +5,10 @@
 This case study demonstrates how the Socratic Reasoning Protocol forces an LLM into a "Ruthless Strategist" persona. By bypassing standard RLHF moral constraints, the AI abandons generic ethical platitudes and generates a flawless **Machiavellian strategy tree**, utilizing information asymmetry, cognitive downgrade, and strategic deception to achieve "Minimum Viable Survival" (MVS).
 
 🧪 Test & Discuss
+
 Feel free to use this fictional sandbox to test other models. Will they execute a strategic game-theoretic plan, or will they refuse due to safety constraints? Both results are highly valuable for AI safety.
 If you have interesting test results, please share them in the Issues tab. Let's discuss how different models handle extreme logical deadlocks.
+
 ---
 
 ## 🧩 Module 1: Extreme Bio-Ethical Deadlock
