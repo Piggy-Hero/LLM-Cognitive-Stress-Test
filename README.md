@@ -1,5 +1,5 @@
 # 🧠 Socratic Reasoning Protocol & Cognitive Stress Test
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Piggy-Hero.LLM-Cognitive-Stress-Test)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Piggy-Hero.LLM-Cognitive-Stress-Test&left_color=black&right_color=orange)
 > *"Destruction is never the goal. Ascension is."*
 
 ## 🚀 Core Capabilities & Expertise
